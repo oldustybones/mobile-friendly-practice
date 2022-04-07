@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    padding-top: 100px;
+    background-color: #0099ff;
+    color: white;
+    padding-bottom: 10px;
+}
+
+svg {
+    margin-top: -25px;
+}
+
+.container {
+	width: 1000px;
+	background-color: white;
+	margin: auto;
+	padding: 15px;
+	height: 500px;
+	
+}
+
+.right {
+    text-align: right;
+}
+
+.rightp {
+    text-align: right;
+}
